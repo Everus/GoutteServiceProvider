@@ -1,0 +1,18 @@
+{
+    "name": "everus/goutteprovider",
+    "description": "Silex ServiceProvider for using goutte",
+    "require": {
+        "silex/silex": "^2.0",
+        "fabpot/goutte": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark",
+            "email": "oper29a@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Everus\\Silex": "src" }
+    }
+}
