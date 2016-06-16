@@ -1,5 +1,5 @@
 {
-    "name": "everus/goutteprovider",
+    "name": "everus/goutte-service-provider",
     "description": "Silex ServiceProvider for using goutte",
     "require": {
         "silex/silex": "^2.0",
