@@ -11,7 +11,7 @@ To use it add following line to your composer.json:
 
     "require": {
         ...
-        "everus/goutte-service-provider": "^0.11.x"
+        "everus/goutte-service-provider": "0.11.x"
         ...
     }
 
